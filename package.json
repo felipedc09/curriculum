@@ -1,0 +1,21 @@
+{
+  "name": "curriculum-api",
+  "version": "0.0.1",
+  "description": "API to get curriculums data",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "curriculum",
+    "api"
+  ],
+  "author": "Felipe Duitama",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^9.0.2",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  }
+}
