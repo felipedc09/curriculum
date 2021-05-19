@@ -6,8 +6,8 @@
     "email": "felipedc09@gmail.com",
     "website": "https://example.com",
     "phone": "3203448583",
-    "avatar": "https://www.notion.so/felipedc09/Curriculum-vitae-e0c448622ad240239493d2c07acf21aa#58328d52dc454391a9b95ecb53ef8fc2",
-    "Profile": "Frontend software developer, with backend and infrastructure knowledge. I generate solutions using different technologies through microservices. I work hand in hand with the design team to achieve the best visual and usability experience for users. \n My goal is to integrate the concepts of design, scalability, reuse, software architecture, good practices and maintainability within the development, from the beginning to the end of the project, minimizing technical debt. Contribute to development communities, optimizing the use of resources to focus work on the specification, validation, implementation, and optimization of the problem to be solved. ",
+    "avatar": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/43384f7b-4238-492b-9e69-be7e22d8b513/3A62B553-300A-40EC-BAD6-3511AF3A4BFC.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210519%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210519T053736Z&X-Amz-Expires=86400&X-Amz-Signature=f91e40e05842707c5e988ed155beba3acbd6558e02525c36ead51340952734d8&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%223A62B553-300A-40EC-BAD6-3511AF3A4BFC.png%22",
+    "profile": "Frontend software developer, with backend and infrastructure knowledge. I generate solutions using different technologies through microservices. I work hand in hand with the design team to achieve the best visual and usability experience for users. \n My goal is to integrate the concepts of design, scalability, reuse, software architecture, good practices and maintainability within the development, from the beginning to the end of the project, minimizing technical debt. Contribute to development communities, optimizing the use of resources to focus work on the specification, validation, implementation, and optimization of the problem to be solved. ",
     "certificate": [
       {
         "date": "Dic 2017 - 2019",
@@ -16,7 +16,7 @@
         "name": "Unity certified developer"
       }
     ],
-    "Academic": [
+    "academic": [
       {
         "degree": "Systems Engineering",
         "description": "Solve problems, analysing, designing and implementing systems",
