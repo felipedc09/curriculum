@@ -1,0 +1,85 @@
+{
+  "data": {
+    "name": "Felipe Duitama",
+    "profession": "FrontEnd Developer",
+    "address": "Bogotá, Colombia.",
+    "email": "felipedc09@gmail.com",
+    "website": "https://example.com",
+    "phone": "3203448583",
+    "avatar": "https://www.notion.so/felipedc09/Curriculum-vitae-e0c448622ad240239493d2c07acf21aa#58328d52dc454391a9b95ecb53ef8fc2",
+    "Profile": "Frontend software developer, with backend and infrastructure knowledge. I generate solutions using different technologies through microservices. I work hand in hand with the design team to achieve the best visual and usability experience for users. \n My goal is to integrate the concepts of design, scalability, reuse, software architecture, good practices and maintainability within the development, from the beginning to the end of the project, minimizing technical debt. Contribute to development communities, optimizing the use of resources to focus work on the specification, validation, implementation, and optimization of the problem to be solved. ",
+    "certificate": [
+      {
+        "date": "Dic 2017 - 2019",
+        "description": "",
+        "institution": "UNAD, Naska Digital",
+        "name": "Unity certified developer"
+      }
+    ],
+    "Academic": [
+      {
+        "degree": "Systems Engineering",
+        "description": "Solve problems, analysing, designing and implementing systems",
+        "endDate": "May 2020",
+        "startDate": "Jul 2011",
+        "institution": "Universidad Distrital Franciso José de Caldas"
+      }
+    ],
+    "experience": [
+      {
+        "company": "3Dves",
+        "endDate": "Present",
+        "jobDescription": "Development of web and mobile applications for construction sector.",
+        "jobTitle": "Engineering Research and development of innovation and technology",
+        "startDate": "Oct 2015"
+      }
+    ],
+    "skills": [
+      {
+        "name": "HTML5",
+        "percentage": "90%"
+      },
+      {
+        "name": "CSS",
+        "percentage": "50%"
+      },
+      {
+        "name": "JavaScript",
+        "percentage": "80%"
+      },
+      {
+        "name": "React",
+        "percentage": "80%"
+      }
+    ],
+    "interest": ["javascript", "develop", "backend", "frontend"],
+    "languages": [
+      {
+        "name": "Spanish",
+        "percentage": "95%"
+      },
+      {
+        "name": "English",
+        "percentage": "60%"
+      }
+    ],
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://facebook.com/felipedc09"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/felipedc09"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/felipedc09"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/felipedc09"
+      }
+    ]
+  }
+}
